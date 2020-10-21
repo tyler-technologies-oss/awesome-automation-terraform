@@ -10,5 +10,5 @@ Gitops Provider for Terraform that allows you to automate git calls.
 Provider that easily allows you to automate calls to graphql APIs with Terraform.
 
 
-[Terraform State Copier Script](https://github.com/tyler-technologies/go-tfdr)
-Allows you to copy state from one workspace to another.
+[Terraform State Copier CLI](https://github.com/tyler-technologies/go-tfdr)
+Allows you to copy state from one Terraform Cloud workspace to another.
